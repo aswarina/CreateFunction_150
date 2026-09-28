@@ -14,5 +14,5 @@ konversi = converts_temperature(input_value, input_unit)
 if input_unit == 'C':
     print("Hasil:", konversi)
 else:
-    print("Hasil:", konversi)
+    print("Hasil:", konversi) 
 
